@@ -11,7 +11,7 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
 n tane elemanımız var, her işlem başına n (-1) azalır. Bu durumda  n+(n-1)+(n-2)....+1= $\frac{n^2+n}{2}$     dominant olan n^2
-Time complexity O(n^2)'dir.
+O(n^2).
 
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
   Average case: Aradığımız sayının ortada olması
