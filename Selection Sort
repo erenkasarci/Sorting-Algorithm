@@ -1,0 +1,7 @@
+[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+
+[7,3,5,8,2,9,4,15,6] küçükten büyüğe doğru Selection Sort'a göre sıralanacak.
+1.[2,3,5,8,7,9,4,15,6] -> 2 elemanı en küçük olduğundan en baştaki 7 elemanı ile yer değiştirdi.
+2.[2,3,4,8,7,9,5,15,6] -> 4 elemanı 3. sıradaki 5 elemanı ile yer değiştirdi.
+3.[2,3,4,5,7,9,8,15,6] -> 5 elemanı 4. sıradaki 8 elemanı ile yer değiştirdi.
+4.[2,3,4,5,6,9,8,15,7] -> 6 elemanı 5.sıradaki 7 elemanı ile yer değiştirdi.
